@@ -1,1 +1,2 @@
-# Budget-Planner-
+# **Human Computer Interaction Project**
+Budgeting is an important skill in one’s life. Via managing our expenses, we can help ourselves in an emergency, retirement, fix our bad spending habits, and control our finances. Budgeting also ensures that we should only spend what we can afford, not the things we want, and could be helpful for improving family life. So, for all those benefits, I created a budget planner for the public.
